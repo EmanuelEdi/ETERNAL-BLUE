@@ -42,6 +42,8 @@ Para proteger sistemas contra ataques similares ao **EternalBlue**, recomenda-se
 - **John The Ripper:** Para quebra de hash.  
 
 ---
+#Link Explicação
+https://pyrite-principle-7f8.notion.site/ETERNAL-BLUE-18057605a28b803f8eb8fb1e1eb175ac
 
 ## Conclusão
 
